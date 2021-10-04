@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lawful2002 aka Harshvardhan Singh
 - 👀 I’m interested in new techonlogies
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently exploring Cloud Development and Architecture
 - 📫 How to reach me sharshvardhan101@gmail.com
 
 <!---
