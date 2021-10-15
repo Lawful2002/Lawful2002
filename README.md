@@ -1,8 +1,11 @@
+## 👨🏻‍💻 &nbsp;About Me
+
 - 👋 Hi, I’m @Lawful2002 aka Harshvardhan Singh
 - 👀 I’m interested in new techonlogies
 - 🌱 I’m currently exploring Cloud Development and Architecture
 - 📫 How to reach me sharshvardhan101@gmail.com
 
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/Lawful2002">
