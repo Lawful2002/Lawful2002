@@ -16,9 +16,11 @@
 
  ## 🤝🏻 &nbsp;Connect with Me
 
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/Lawful2002/
 
+[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:20bcs099@iiitdmj.ac.in)
+ 
+[linkedin]: https://www.linkedin.com/in/Lawful2002/
 <!---
 Lawful2002/Lawful2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
