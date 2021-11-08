@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Lawful2002 aka Harshvardhan Singh
 - 👀 I’m interested in new techonlogies
-- 🌱 I’m currently exploring Cloud Development and Architecture
+- 🌱 I’m currently exploring Web Development and Cloud Tech
 - 📫 How to reach me sharshvardhan101@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
