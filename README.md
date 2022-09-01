@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Lawful2002 aka Harshvardhan Singh
 - 👀 I’m interested in new techonlogies
 - 🌱 I’m currently collaborating with The Oppia Foundation 
-- 📫 How to reach me sharshvardhan101@gmail.com
+- 📫 Email: sharshvardhan101@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
 
